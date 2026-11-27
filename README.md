@@ -50,5 +50,5 @@ Les données du Global Burden of Disease ne sont pas dans ce dépôt : elles se 
 
 ## Auteure
 
-Maeva Ozouaki · MaEkia DataVision
+Maeva Ozouaki · Maeva DataVision
 Rapport complet : [lien Notion à ajouter] · Dashboard : [lien Netlify à ajouter]
