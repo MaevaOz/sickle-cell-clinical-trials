@@ -51,4 +51,4 @@ Les données du Global Burden of Disease ne sont pas dans ce dépôt : elles se 
 ## Auteure
 
 Maeva Ozouaki · Maeva DataVision
-Rapport complet : [lien Notion à ajouter] · Dashboard : [lien Netlify à ajouter]
+Rapport complet : https://ubiquitous-pizza-8c9.notion.site/Drepanocytose-o-se-font-les-essais-cliniques-et-pour-qui-3bca892fd53f80219887db2336d05eac · Dashboard : https://drepanocytosedashboard.netlify.app/
